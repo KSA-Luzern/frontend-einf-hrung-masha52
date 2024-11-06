@@ -7,27 +7,55 @@ html, body{
  
 #mund{
     
-    background-color: darkorchid;
-    border-radius: 50%;
-    width: 40%;
-    margin-left: 30%;
-    margin-top: 30%;
+    background-color: rgb(148, 12, 5);
+    border-radius: 50px;
+    width: 50%;
+    font-size: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20%;
+    text-align:center;
 }
+
+
+#linkesAuge {
+    font-size: 100px;   
+    width: 70%; 
+}
+
+
+#rechtesAuge {
+    font-size: 100px;    
+}
+
 
 #augen{
     display: flex;
-    width: 40%;
-    margin-left: 35%;
-    margin-top: ;
-    justify-content: center;
+    width: 60%;
+    margin-left: 25%;
+    padding-top: 10%; 
 }
 
 #gesicht{
     margin-left: 35%;
-    width: 30%;
-    height: 30%;
-    border-radius: 50%;
+    margin-top: 5%;
+    width: 450px;
+    height: 400ox;
+    border-radius: 60%;
     background-color: gold;
     
-    
+}
+
+#knopf{   
+    margin-left: 16%;  
+    text-align: center; 
+    background-color: rgb(0, 104, 104); 
+    border-radius: 50px;
+    width: 50px;
+}
+
+#eingabe{
+    margin-top: 2%; 
+    margin-left: 2%; 
+    width: 30%; 
 }
